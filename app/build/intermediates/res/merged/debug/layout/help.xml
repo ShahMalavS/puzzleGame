@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/dbg" >
+
+ <LinearLayout android:layout_width="match_parent"
+    android:layout_height="500dp" 
+    android:orientation="vertical">
+     
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:layout_marginRight="10dp"
+        android:text="The game consists in moving the pieces to the correct square in order to assemble the picture. The pieces can be moved to the squares beside them, if they are not occupied by another piece, this means, you ca only move a piece if it has empty square beside it." />
+
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:text="To move a piece, just touch the piece. At the end bottommost right corner will be empty."/>
+     
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="First puzzle is of Numbers, so you can get the exact view. From the second puzzle remember the image properly to arrange the pieces. (Shortly, i will provide the option of whether to keep numbers on each piece or not.)" />
+     
+      <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="The correct order of the pieces to win the game is as follow:" />
+     
+      <ImageView
+          android:id="@+id/ImageView"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:layout_marginTop="10dp"
+          android:background="@drawable/level1" >
+</ImageView>
+      
+      <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:text="You will be having the option of selecting the maze size as 3*3, 4*4 and 5*5. Depending on the maze size, the correct position to win will differ. But before starting the puzzle, the correct picture will be shown." />
+     
+       <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"
+        android:layout_marginRight="10dp"
+        android:text="You also have the option of choosing photo from gallery for playing puzzle."/>
+       
+       <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"
+        android:layout_marginRight="10dp"
+        android:text="When you park a maze, number of moves will be recorded, and if its better then previous, then it will be updated and it will be shown when you play next time"/>
+       
+        <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#000000"
+        android:layout_marginRight="10dp"
+        android:text="You can turn the sound on/off on the main screen, The reset button on the main screen will reset the best moves of all the levels"/>
+
+  
+      
+</LinearLayout>
+</ScrollView>

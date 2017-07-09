@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/bg">
+
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <ImageView
+        android:id="@+id/im"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:scaleType="fitXY" />
+
+    <Button
+        android:id="@+id/fourb"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/im"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:text="4 * 4"
+        android:background="@drawable/button_with_border"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/threeb"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_alignBaseline="@+id/fourb"
+        android:layout_alignBottom="@+id/fourb"
+        android:layout_alignLeft="@+id/im"
+        android:text="3 * 3" 
+        android:background="@drawable/button_with_border"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    <Button
+        android:id="@+id/fiveb"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_alignBaseline="@+id/fourb"
+        android:layout_alignBottom="@+id/fourb"
+        android:layout_alignRight="@+id/im"
+        android:text="5 * 5" 
+        android:background="@drawable/button_with_border"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+</RelativeLayout>
+</ScrollView>

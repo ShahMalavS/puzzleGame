@@ -1,0 +1,13 @@
+#Sun Jul 09 20:22:48 IST 2017
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.3=/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a194417bd9c2c4a54533d9216571b93a768c4729
+base.2=/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_293e2ea7e86559f59a35031e3461250ef9cee8ec
+base.1=/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9e2d5850b5a355edec4e85f5341d93d7ddcd6c8
+base.0=/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_c3ef1f6b17b45940bc24ea8c5dda40ca84050851
+file.3=/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a194417bd9c2c4a54533d9216571b93a768c4729/classes.dex
+file.2=/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_293e2ea7e86559f59a35031e3461250ef9cee8ec/classes.dex
+file.1=/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9e2d5850b5a355edec4e85f5341d93d7ddcd6c8/classes.dex
+file.0=/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_c3ef1f6b17b45940bc24ea8c5dda40ca84050851/classes.dex

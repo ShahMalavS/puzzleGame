@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/anim/abc_slide_in_bottom.xml"
+    }
+]

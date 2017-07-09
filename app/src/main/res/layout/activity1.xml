@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true" >
+
+        <ImageView
+            android:id="@+id/title"
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/capture" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:weightSum="100" >
+
+            <Button
+                android:id="@+id/about"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/about"
+                android:scaleType="fitXY" />
+
+            <Button
+                android:id="@+id/help"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/help"
+                android:scaleType="fitXY" />
+
+            <Button
+                android:id="@+id/sound"
+                android:layout_width="43dp"
+                android:layout_height="43dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/sound"
+                android:scaleType="fitXY" />
+
+            <Button
+                android:id="@+id/reset"
+                android:layout_width="38dp"
+                android:layout_height="38dp"
+                android:layout_marginEnd="60dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/reset"
+                android:scaleType="fitXY" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_alignLeft="@+id/play"
+            android:layout_below="@+id/play"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/exit"
+            android:text="Exit" />
+
+        <Button
+            android:id="@+id/play"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/title"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/three"
+            android:text="Play Game" />
+
+    </RelativeLayout>
+
+ </RelativeLayout>

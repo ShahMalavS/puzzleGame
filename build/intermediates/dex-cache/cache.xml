@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/pre-dexed/debug/classes_a194417bd9c2c4a54533d9216571b93a768c4729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahmalav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_c3ef1f6b17b45940bc24ea8c5dda40ca84050851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahmalav/.android/build-cache/103657d1eaa1372c2d418a2e942343c3531d88a7/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_293e2ea7e86559f59a35031e3461250ef9cee8ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shahmalav/.android/build-cache/103657d1eaa1372c2d418a2e942343c3531d88a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/pre-dexed/debug/classes_f9e2d5850b5a355edec4e85f5341d93d7ddcd6c8.jar" />
+    </item>
+
+</items>

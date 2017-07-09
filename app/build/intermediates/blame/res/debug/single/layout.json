@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/settings.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/activity1.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/activity1.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/game_complete_custom.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/game_complete_custom.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/customimg.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/customimg.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/activity_main44.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/activity_main44.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/start_activity.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/start_activity.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/activity_main444.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/activity_main444.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/maze.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/maze.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/game_complete.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/game_complete.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/activity_namedialog.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/layout/activity_namedialog.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/shahmalav/.android/build-cache/51d8b1474b966faf8e55c8d68bd2b6e4f9a88a2f/output/res/layout/abc_activity_chooser_view.xml"
+    }
+]

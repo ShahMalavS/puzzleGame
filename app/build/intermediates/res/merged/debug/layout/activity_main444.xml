@@ -1,0 +1,373 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.puzzlegame.MainActivity" >
+    
+    <RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="300dp">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:weightSum="100" >
+        
+      <ImageView
+        android:id="@+id/ssss"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="14dp"
+        android:layout_weight="18"
+        android:scaleType="fitXY"
+       />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:visibility="gone"
+        android:weightSum="100" >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="6" />
+
+        <ImageView
+            android:id="@+id/part1"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/part2"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/part3"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part4"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part5"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l2"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="90dp"
+        android:visibility="gone"
+        android:weightSum="100" >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="6" />
+
+        <ImageView
+            android:id="@+id/part6"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+         <ImageView
+            android:id="@+id/part7"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+
+        <ImageView
+            android:id="@+id/part8"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+         <ImageView
+            android:id="@+id/part9"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part10"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l3"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="150dp"
+        android:visibility="gone"
+        android:weightSum="100" >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="6" />
+     
+        <ImageView
+            android:id="@+id/part11"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part12"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        <ImageView
+            android:id="@+id/part13"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part14"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part15"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l4"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="210dp"
+        android:visibility="gone"
+        android:weightSum="100" >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="6" />
+ 
+        <ImageView
+            android:id="@+id/part16"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part17"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part18"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part19"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part20"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/l5"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="270dp"
+        android:visibility="gone"
+        android:weightSum="100" >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="6" />
+ 
+        <ImageView
+            android:id="@+id/part21"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part22"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part23"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part24"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+        
+        <ImageView
+            android:id="@+id/part25"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="18"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/left"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/tscore"
+        android:layout_marginRight="18dp"
+        android:layout_toLeftOf="@+id/score"
+        android:visibility="visible" />
+
+    <ImageButton
+        android:id="@+id/right"
+        android:layout_width="75dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/score"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/score"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="  Best Score :            "
+        android:textSize="20dp"
+        android:background="@drawable/five"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/ans"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_alignRight="@+id/l5"
+        android:layout_below="@+id/l5"
+        android:layout_marginRight="29dp"
+        android:layout_marginTop="38dp"
+        android:text="000"
+        android:background="@drawable/five"
+        android:textSize="20dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/restart"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/l5"
+        android:layout_alignTop="@+id/ans"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/restart"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tscore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/score"
+        android:layout_alignBottom="@+id/score"
+        android:layout_alignRight="@+id/score"
+        android:layout_marginRight="14dp"
+        android:text="000"
+        android:textSize="20dp"
+        android:visibility="visible" />
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:visibility="visible" />
+    
+    <Chronometer
+        android:id="@+id/chronometer1"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_alignTop="@+id/ans"
+        android:layout_marginRight="23dp"
+        android:layout_toLeftOf="@+id/ans"
+        android:background="@drawable/three"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Chronometer" 
+        android:visibility = "gone"/>
+
+</RelativeLayout>
+</ScrollView>

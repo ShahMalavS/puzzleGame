@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/level8.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/level8.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/border.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/border.xml"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/star.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/star.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/level5.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/level5.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/level2.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/level2.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/bg.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dbg.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/dbg.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/level3.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/level3.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/but.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/but.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/level6.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/level6.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/taj.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/taj.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/level7.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/level7.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/level4.jpg",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/level4.jpg"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_with_border.xml",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/drawable-hdpi/button_with_border.xml"
+    }
+]

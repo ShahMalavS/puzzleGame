@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/dbg"
+    >
+
+    <Button
+        android:id="@+id/ansmoves"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="60dp"
+        android:textColor="#ffffff"
+        android:text="Moves"
+        android:background="@drawable/five"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ansmoves"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="36dp"
+        android:text="Play Again"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/four"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="4 * 4 "
+        android:textColor="#ffffff"
+        android:background="@drawable/three"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/five"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:text="Choose another Image" 
+        android:textColor="#ffffff"
+        android:background="@drawable/b7"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    <Button
+        android:id="@+id/menu"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/next"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Menu"
+        android:textColor="#ffffff"
+        android:background="@drawable/four"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/three"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/next"
+        android:layout_alignLeft="@+id/next"
+        android:background="@drawable/three"
+        android:text="3 * 3"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/five"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_alignBaseline="@+id/four"
+        android:layout_alignBottom="@+id/four"
+        android:layout_alignRight="@+id/next"
+        android:background="@drawable/three"
+        android:text="5 * 5"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>

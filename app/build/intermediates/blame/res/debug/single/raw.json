@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/raw/novoice.mp3",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/raw/novoice.mp3"
+    },
+    {
+        "merged": "/Users/shahmalav/androidWS/puzzleGame/app/build/intermediates/res/merged/debug/raw/click.mp3",
+        "source": "/Users/shahmalav/androidWS/puzzleGame/app/src/main/res/raw/click.mp3"
+    }
+]
