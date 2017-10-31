@@ -13,7 +13,6 @@ public class GameComplete extends Dialog
 		// TODO Auto-generated constructor stub
 		super(c);
 	}
-	
 
 	Button play;	
 	

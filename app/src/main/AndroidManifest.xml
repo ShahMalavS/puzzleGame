@@ -10,10 +10,7 @@
     <uses-permission android:name="android.permission.SET_WALLPAPER" /> 
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.CAMERA"/>
-	<uses-feature android:name="android.hardware.camera" />    
-    <uses-sdk
-        android:minSdkVersion="10"
-        android:targetSdkVersion="21" />
+	<uses-feature android:name="android.hardware.camera" />
 
     <application
         android:allowBackup="true"
@@ -31,10 +28,10 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        
+        <!--
         <activity android:name="com.dm.zbar.android.scanner.ZBarScannerActivity"
         android:screenOrientation="landscape"
-        android:label="@string/app_name" />
+        android:label="@string/app_name" />-->
         
         <activity
             android:name=".MainActivity444"
@@ -91,7 +88,7 @@
             </intent-filter>
         </activity>
         
-        <activity
+        <!--<activity
             android:name=".Fourth"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
@@ -122,7 +119,7 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity>
+        </activity>-->
         
         <activity
             android:name=".MainActivity"
@@ -157,7 +154,7 @@
             </intent-filter>
         </activity>
         
-        <activity
+        <!--<activity
             android:name=".Second"
             android:label="@string/app_name" 
             android:screenOrientation="portrait">
@@ -177,7 +174,7 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity>
+        </activity>-->
         
         <activity
             android:name=".GameComplete"

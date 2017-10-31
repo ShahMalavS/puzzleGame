@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<ScrollView 
-     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="vertical" 
-    android:background="@drawable/dbg">
-    
-    <RelativeLayout
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="384dp"
-        android:layout_margin="5dp" >
+        android:layout_margin="5dp"
+        android:background="@drawable/dbg">
 
     <TextView
         android:id="@+id/textView1"
@@ -41,7 +34,7 @@
         android:layout_marginTop="40dp"
         android:textColor="#000000"
         android:textSize="15dp"
-        android:text="Developed By : Malav Shah" />
+        android:text="Developed By : Ankush Bathla" />
 
     <TextView
         android:id="@+id/textView3"
@@ -52,6 +45,6 @@
         android:textColor="#000000"
         android:text="Version: 1.0" />
 
-    </RelativeLayout>
-</ScrollView>
+</RelativeLayout>
+
 
